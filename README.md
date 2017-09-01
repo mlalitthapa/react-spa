@@ -1,0 +1,1 @@
+Simple SPA built with React and Redux.
